@@ -1,4 +1,4 @@
 # WordPortrait
 Word Portrait Media Art
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UecQiMHYxHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/embed/UecQiMHYxHs)
